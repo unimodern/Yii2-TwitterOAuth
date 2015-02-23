@@ -1,19 +1,19 @@
 {
     // package name
-    "name": "unimodern/yii2-TwitterOAuth",
+    "name": "unimodern/yii2-twitteroauth",
 
     // package type
     "type": "yii2-extension",
 
     "description": "TwitterOAuth for Yii2",
-    "keywords": ["yii2", "twitter", "oauth", "TwitterOAuth"],
+    "keywords": ["yii2", "twitter", "oauth", "yii2-twitteroauth"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/unimodern/yii2-TwitterOAuth/issuesy",
+        "issues": "https://github.com/unimodern/yii2-twitteroauth/issuesy",
         "forum": "http://www.yiiframework.com/forum/",
         "wiki": "http://www.yiiframework.com/wiki/",
         "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/unimodern/yii2-TwitterOAuth"
+        "source": "https://github.com/unimodern/yii2-twitteroauth"
     },
     "authors": [
         {
@@ -31,7 +31,7 @@
     // class autoloading specs
     "autoload": {
         "psr-4": {
-            "yii\\yii2-TwitterOAuth\\": "src"
+            "yii\\yii2-twitteroauth\\": "src"
         }
     }
 }
