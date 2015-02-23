@@ -31,7 +31,7 @@
     // class autoloading specs
     "autoload": {
         "psr-4": {
-            "yii\\yii2-twitteroauth\\": "src"
+            "yii\\yii2-twitteroauth\\": ""
         }
     }
 }
